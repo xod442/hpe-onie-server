@@ -1,0 +1,4 @@
+mac,sysname,ip,mask,gateway,fan,user,passwd
+94f9-8e36-0100,spine01,172.20.0.100,255.255.255.0,172.20.0.2,port-to-power,admin,admin
+4431-926b-3659,leaf01,172.20.0.200,255.255.255.0,172.20.0.2,port-to-power,admin,admin
+
